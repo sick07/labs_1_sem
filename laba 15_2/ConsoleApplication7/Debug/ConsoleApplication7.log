@@ -1,0 +1,10 @@
+﻿Сборка начата 22.12.2015 13:14:13.
+     1>Проект "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\ConsoleApplication7\ConsoleApplication7.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\Debug\ConsoleApplication7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\Debug\ConsoleApplication7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\Debug\ConsoleApplication7.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication7.vcxproj -> C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\Debug\ConsoleApplication7.exe
+     1>Сборка проекта "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\sick\laba 15_2\ConsoleApplication7\ConsoleApplication7.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.44

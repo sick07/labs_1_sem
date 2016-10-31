@@ -1,0 +1,14 @@
+﻿Сборка начата 02.12.2015 1:18:14.
+     1>Проект "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\влад\учеба\оаип\visual studio\проги\laba 4\consoleapplication12\consoleapplication12\source.cpp(6): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\Debug\ConsoleApplication12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\Debug\ConsoleApplication12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\Debug\ConsoleApplication12.lib" /MACHINE:X86 Debug\Source.obj
+         ConsoleApplication12.vcxproj -> C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\Debug\ConsoleApplication12.exe
+     1>Сборка проекта "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.60

@@ -1,0 +1,11 @@
+﻿Сборка начата 06.10.2015 16:31:07.
+     1>Проект "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\влад\учеба\оаип\visual studio\проги\laba 4\consoleapplication5\consoleapplication5\source.cpp(6): warning C4305: инициализация: усечение из "double" к "float"
+     1>Сборка проекта "C:\Влад\учеба\ОАиП\visual studio\проги\laba 4\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.vcxproj" завершена (целевые объекты ClCompile).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.44

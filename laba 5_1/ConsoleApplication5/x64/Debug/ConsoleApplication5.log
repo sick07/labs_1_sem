@@ -1,0 +1,14 @@
+﻿Сборка начата 09.06.2016 14:54:46.
+     1>Проект "C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\ConsoleApplication5\ConsoleApplication5.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\влад\учеба\1 семестр\оаип\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\consoleapplication5\source.cpp(6): warning C4305: инициализация: усечение из "double" к "float"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\x64\Debug\ConsoleApplication5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\x64\Debug\ConsoleApplication5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\x64\Debug\ConsoleApplication5.lib" /MACHINE:X64 x64\Debug\Source.obj
+         ConsoleApplication5.vcxproj -> C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\x64\Debug\ConsoleApplication5.exe
+     1>Сборка проекта "C:\Влад\учеба\1 семестр\ОАиП\1 семестр\visual studio\проги\laba 4\sick\laba 5_1\ConsoleApplication5\ConsoleApplication5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.84
